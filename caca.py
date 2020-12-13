@@ -16,3 +16,4 @@ try:
     print("Page is ready!")
 except TimeoutException:
     print("Loading took too much time!")
+    print("Coucou brahim... jaime le caca")
