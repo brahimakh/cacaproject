@@ -1,5 +1,5 @@
 
-groscaca=[{
+SEARCH_CONFIG=[{
   "url": "https://www.fnac.com/Console-Sony-PS5-Edition-Standard/a14119956/w-4#omnsearchpos=1",
   "elts":
     [{"XPATH":"/html/body/div[2]/div/div[1]/div[2]/section/ul[2]/li/div/div[1]/div[1]/div[1]/div/p"}]

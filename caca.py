@@ -17,3 +17,4 @@ try:
 except TimeoutException:
     print("Loading took too much time!")
     print("Coucou brahim... jaime le caca")
+    print("Moi aussi et j'aime la PS5")
