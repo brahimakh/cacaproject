@@ -11,11 +11,14 @@ class Searcher:
     def __init__(self):
         self.config = SEARCHER_CONFIG
         self.driver = webdriver.Chrome(DRIVER_PATH)
-        #1- Quand en prod, activate chrome page hidden
-        #2- Lancer
-        self.isProductAvailable()
 
-    def isProductAvailable(self):
+    def launch(self):
+        pass
+        # 1- Quand en prod, activate chrome window hidden ca ne genera pas brahim pdt quil utilise son ordi
+        # 2- Lancer la recherche
+        self.search()
+
+    def search(self):
         pass
         # TODO Faire la recherche pour tous les objets dans config plutot aue simplement sur fnac
         # 1 - boucle sur les pages a inspecter (for PAGE)
