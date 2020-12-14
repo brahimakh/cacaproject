@@ -1,7 +1,5 @@
-
-
-
 DRIVER_PATH = "driver/chromedriver"
+
 SEARCHER_CONFIG = [
   {
     "url": "https://www.fnac.com/Console-Sony-PS5-Edition-Standard/a14119956/w-4#omnsearchpos=1",
